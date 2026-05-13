@@ -1,0 +1,6 @@
+name = "openclawos"
+main = "worker.js"
+compatibility_date = "2026-05-13"
+
+[vars]
+OPENAI_BASE_URL = "https://integrate.api.nvidia.com/v1"
